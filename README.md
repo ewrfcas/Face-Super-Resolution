@@ -46,5 +46,7 @@ INPUT & AFTER-SR & GROUND TRUTH
 
 3. RUN python test.py
 
+![conduct](results/AI日读.jpg)
+
 
 
