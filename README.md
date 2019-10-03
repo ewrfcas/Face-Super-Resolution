@@ -24,8 +24,6 @@ INPUT & AFTER-SR & GROUND TRUTH
 
 ### Pretrained models
 
-(If anyone needs googledrive to download these model, please contact me)
-
 1. Dlib alignment shape_predictor_68_face_landmarks.dat 
 
 (https://pan.baidu.com/s/19Y-AYnXs6ubIh4vlkyvqbQ) 
