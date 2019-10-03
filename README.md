@@ -26,15 +26,27 @@ INPUT & AFTER-SR & GROUND TRUTH
 
 (If anyone needs googledrive to download these model, please contact me)
 
-1. Dlib alignment shape_predictor_68_face_landmarks.dat (https://pan.baidu.com/s/19Y-AYnXs6ubIh4vlkyvqbQ) (https://drive.google.com/open?id=1u3h3nX5f_w-HJV8Nd1zwqc3uTnVja5Ol)
+1. Dlib alignment shape_predictor_68_face_landmarks.dat 
+
+(https://pan.baidu.com/s/19Y-AYnXs6ubIh4vlkyvqbQ) 
+
+(https://drive.google.com/open?id=1u3h3nX5f_w-HJV8Nd1zwqc3uTnVja5Ol)
 
 2. Generator weights 
 
-90000_G.pth (https://pan.baidu.com/s/14ITkNz_t0E7hRv0-tTAjhA) (https://drive.google.com/open?id=1CZkLZPtbJepgksCM93MvsY7NgqnEZSvk)
+90000_G.pth 
+
+(https://pan.baidu.com/s/14ITkNz_t0E7hRv0-tTAjhA) 
+
+(https://drive.google.com/open?id=1CZkLZPtbJepgksCM93MvsY7NgqnEZSvk)
 
 > 90000_G.pth (The last activation in G is linear, clearer)
 
-200000_G.pth (https://pan.baidu.com/s/1Osge_4JjPyvG5Xfnbe9KVA) (https://drive.google.com/open?id=1B6BQu5Qk8eIu8MGTWJHnJxaxY1zCqQEt)
+200000_G.pth 
+
+(https://pan.baidu.com/s/1Osge_4JjPyvG5Xfnbe9KVA) 
+
+(https://drive.google.com/open?id=1B6BQu5Qk8eIu8MGTWJHnJxaxY1zCqQEt)
 
 > 200000_G.pth (The last activation in G is tanh)
 
