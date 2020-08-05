@@ -40,6 +40,14 @@ INPUT & AFTER-SR & GROUND TRUTH
 
 > 90000_G.pth (The last activation in G is linear, clearer)
 
+90000_D.pth
+
+(https://pan.baidu.com/s/1-gRy1xw5h95_ie0NfBbDlw  password:6him)
+
+(https://drive.google.com/file/d/1zX9dbCu9lFu_SvRCvPIWnwJUUGUrZUhk/view?usp=sharing)
+
+> Maybe you need it to finetune the model?
+
 200000_G.pth 
 
 (https://pan.baidu.com/s/1Osge_4JjPyvG5Xfnbe9KVA) 
