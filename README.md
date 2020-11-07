@@ -12,7 +12,7 @@ INPUT & AFTER-SR & GROUND TRUTH
 
 ### Train
 
-1. Run python gen_lr_imgs.py to get the face imgs with low resolution and pool qualities
+1. Run python gen_lr_imgs.py to get the face imgs with low resolution and poor qualities
 
 2. Set the dir in train.py
 
